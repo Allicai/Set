@@ -10,7 +10,7 @@ To start the game, run either the Main or General Main class depending on your d
 When running the General Main class, you will be prompted to enter the desired height and width of the game board. Please note that the product of the height and width cannot exceed 27, as there are a total of 3^3 (27) unique cards in the game. The Main class will also prompt you for a height and width since both run off the same controller, however it will only accept a 3x3 board size since that's how the game was originally presented to us.
 
 ## Gameplay
-Once the game has begun, the game board will be displayed, and players can start selecting coordinates to form sets of cards. The coordinates are represented by a combination of numbers and letters. For example, 1A corresponds to the top-left spot on the board, with numbers representing the rows and letters representing the columns.
+Once the game has begun, the game board will be displayed, and players can start selecting coordinates to form sets of cards. The coordinates are represented by a combination of numbers and letters. For example, 1A corresponds to the top-left spot on the board, with numbers representing the columns and letters representing the rows.
 
 Players should input three coordinates for each set they wish to claim. The game will then check if the selected cards form a valid set. If a valid set is found, the cards will be removed from the board, and the player's score will be incremented. The board will refresh with updated cards after each turn.
 
