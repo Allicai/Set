@@ -1,5 +1,7 @@
 # Set
 
+This project was an individual project I did for my Object Oriented Design class at Northeastern.
+
 This project aims to recreate the classic card game Set while implementing the Model-View-Controller (MVC) pattern in programming. The game allows players to identify sets of cards based on their shapes, number of shapes, and filling patterns. The project also includes an option to play on a customizable game board size.
 
 **Getting Started**
